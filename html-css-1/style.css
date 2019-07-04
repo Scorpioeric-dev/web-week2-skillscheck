@@ -1,0 +1,17 @@
+.header{
+    background-color: gray;
+    height: 250px;
+    width: 250px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+.box{
+    background-color: black;
+    height: 450px;
+    width: 425vm;
+    border:1px solid red;
+    padding: 50px;
+}
+.middlebox{
+    box-sizing: border-box;
+}
